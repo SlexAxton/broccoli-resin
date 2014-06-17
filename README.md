@@ -26,7 +26,9 @@ tree = resin(tree, {
   license: '// Copyright 2013 and stuff \n',
 
   // Generate sourecemaps for debugging
-  debug: true
+  debug: true,
+
+  use: [rework.prefixSelectors('#myapp')]
 });
 ```
 
@@ -66,6 +68,13 @@ Type: `Boolean`
 Default: `False`
 
 This enables sourcemap support.
+
+### use
+
+Type: `Array`
+Default: []
+
+An array of rework plugins that you'd also like to run.
 
 ## License
 
