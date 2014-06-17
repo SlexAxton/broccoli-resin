@@ -1,4 +1,4 @@
-# broccoli-resin [![Build Status](https://travis-ci.org/slexaxton/broccoli-resin.svg?branch=master)](https://travis-ci.org/slexaxton/broccoli-resin)
+# broccoli-resin [![Build Status](https://travis-ci.org/SlexAxton/broccoli-resin.svg?branch=master)](https://travis-ci.org/SlexAxton/broccoli-resin.svg?branch=master)
 
 > Broccoli wrapped [Resin](https://github.com/topcoat/resin) - A CSS Preprocessor on top of Rework
 
