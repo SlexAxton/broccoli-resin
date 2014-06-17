@@ -72,7 +72,7 @@ This enables sourcemap support.
 ### use
 
 Type: `Array`
-Default: []
+Default: `[]`
 
 An array of rework plugins that you'd also like to run.
 
